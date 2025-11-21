@@ -11,10 +11,6 @@ The map is structured as follows.
 - Each section will have relevant links to help you enjoy the Algorithmic Trading learning journey.
 - Each source link provides a nomenclature (described above) that lets you know what type of source it is.
 
-# Authors
-- Author: [José Carlos Gonzáles Tanaka](https://www.linkedin.com/in/jose-carlos-gonzales-tanaka/)
-- The EPAT Content Team is responsible for the maintenance and update of this repository
-
 ## Disclaimer
 **The sources provided here are just for educational purposes. You should only use them for live trading with appropriate backtesting and tweaking strategy parameters.**
 
@@ -45,7 +41,8 @@ The map is structured as follows.
 
 <a id='contributors'></a>
 ## Contributors
-QuantInsti's EPAT and Quantra content and Digital Marketing teams maintain and contribute to this repository.
+- Author: [José Carlos Gonzáles Tanaka](https://www.linkedin.com/in/jose-carlos-gonzales-tanaka/)
+- QuantInsti's EPAT Content Team is responsible for maintaining and contributing to this repository.
 
 <a id='help'></a>
 ## Ask for help
