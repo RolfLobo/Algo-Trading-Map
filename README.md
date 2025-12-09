@@ -1,5 +1,5 @@
 # Algorithmic Trading Map
-#### Welcome to this repository, where you'll find a helpful map to navigate through the entire knowledge of Algorithmic trading
+#### Welcome to this repository, our Algorithmic Trading Roadmap, where you'll find a helpful map to navigate through the entire knowledge of Algorithmic trading
 
 ## Introduction 
 
